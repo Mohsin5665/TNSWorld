@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "639046585396",
+    "firebase_url": "https://tns-world-49220.firebaseio.com",
+    "project_id": "tns-world-49220",
+    "storage_bucket": "tns-world-49220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639046585396:android:dc45236f15881ac1",
+        "android_client_info": {
+          "package_name": "com.itpvt.tnsworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639046585396-s5re809cqubji3is6f3ni8ivdem5ml31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSCjla11yV6mmfUj_rZKefiLHGA4mK8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
